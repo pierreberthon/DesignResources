@@ -1,11 +1,40 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 2em;
+  background-color: #B4F8CA;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+h1,h2 {
+  color: #AFFCFE
+}
+ 
+h4 {
+  color: #5E6D37;
+}
+
+h5 {
+  color: #445F58;
+}
+
+.container{
+  text-align: center;
+}
+
+.article-content{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.row {
+  margin-bottom: 3em;
+}
+
+.one-half {
+  margin-top: 20px;
+}
+
+#two, #three {
+  border-top: solid #445F58;
 }
