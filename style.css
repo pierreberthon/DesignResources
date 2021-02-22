@@ -21,11 +21,8 @@ h5 {
 img {
   width: 90%;
   height: 25%;
-}
-
-.article-img{
-  diplay: grid;
-  align-items: center;
+  position: sticky;
+  top: 50px;
 }
 
 .container{
@@ -39,6 +36,7 @@ img {
 
 .row {
   margin-bottom: 3em;
+  display: flex;
 }
 
 .one-half {
@@ -57,9 +55,4 @@ img {
 
 #two, #three {
   border-top: solid #445F58;
-}
-
-#img-one, #img-two, #img-three {
-  dislay: grid;
-  align-items: center;
 }
