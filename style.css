@@ -46,6 +46,7 @@ img {
 .banner{
   display: grid;
   background-image: url(https://media.giphy.com/media/3o85xEfx9JC73A6gq4/giphy.gif);
+  /*https://giphy.com/gifs/jerology-river-washington-skate-creek-3o85xEfx9JC73A6gq4*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
